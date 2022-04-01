@@ -386,7 +386,7 @@ footer {
 
   main {
     background-image: none;
-    padding: 0 1.6rem 4rem;
+    padding: 0 0 1.6rem 4rem;
   }
 
   main section {
@@ -418,6 +418,7 @@ footer {
 
   .features-box {
     padding-bottom: 0;
+    padding-right: 4rem;
   }
 
   .features-box__image {
@@ -431,7 +432,7 @@ footer {
   }
 
   .special-feature-box {
-    padding: 8rem 0 2rem;
+    padding: 8rem 4rem 2rem 0;
   }
 
   .special-feature {
